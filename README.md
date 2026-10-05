@@ -6,7 +6,7 @@ Direct IPA download:
 
 ```
 
-[https://github.com/deeeeone/streamflix-ios/releases/latest/download/StreamFlix.ipa](https://github.com/deeeeone/streamflix-ios/releases/latest/download/StreamFlix.ipa)
+https://github.com/deeeeone/streamflix-ios/releases/latest/download/StreamFlix.ipa
 
 ```
 
